@@ -24,8 +24,8 @@ Min.Coin age: 8 hours
 
 Max age: unlimited
 
-RPC 8589
+RPC 8878
 
-P2P 8568
+P2P 8868
 
 
