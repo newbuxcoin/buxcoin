@@ -32,6 +32,7 @@ P2P 8868
 Setup Bux Node
 
 --Dependency--
+
 apt-get install  libboost-program-options-dev libboost-thread-dev  libssl-dev libdb++-dev
 apt-get install   libboost-filesystem-dev
 apt-get -y install  git wget libqrencode-dev libminiupnpc-dev
@@ -44,6 +45,8 @@ sudo apt-get update
 sudo apt-get install libdb4.8-dev libdb4.8++-dev
 
 Compile
+
+
 cd src
 make -f makefile.unix
 
